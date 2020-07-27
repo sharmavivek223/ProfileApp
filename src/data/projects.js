@@ -2,6 +2,7 @@ import project1 from '../assets/project1.png';
 import project2 from '../assets/project2.png';
 import project3 from '../assets/project3.png';
 import project4 from '../assets/project4.png';
+import project5 from '../assets/project5.png';
 
 const PROJECTS =[
 	{
@@ -31,7 +32,14 @@ const PROJECTS =[
 		link: 'https://github.com/ronak750/colorGame',
 		img : project3,
 		desc: 'An interactive game website that can be played for fun, along with enhancing knowledge about RGB combinations of colours.'
-	}
+	},
+	{
+		id: 5,
+		title: 'Portfolio Application',
+		link: 'https://github.com/ronak750/ProfileApp',
+		img : project5,
+		desc: 'A showcase of my portfolio consisting of projexts, internships, achievements and skills.'
+	},
 ];
 
 export default PROJECTS;
