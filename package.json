@@ -5,6 +5,7 @@
   "dependencies": {
     "@nomoreanalog/react-scripts-eslintless": "2.1.10",
     "cra-template": "1.0.2",
+    "express": "^4.17.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
